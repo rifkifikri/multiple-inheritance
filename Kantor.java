@@ -1,8 +1,8 @@
 
-public class Kantor extends MejaKerja{
+public class Kantor extends MejaKerja{// inherit anak dari meja kerja
 	
 	public void mejaKantor() {
-		System.out.println("Saya Meja Kantor anak dari Meja Kerja");
-		System.out.println("Saya Meja Kantor cucu dari Big meja");
+		System.out.println("Meja Kantor anak dari Meja Kerja");
+		System.out.println("Meja Kantor cucu dari Big meja");
 	}
 }

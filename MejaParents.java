@@ -1,10 +1,10 @@
 
-public class MejaParents {
+public class MejaParents {//superclass atau parent class
 	public void namaToko(){
 		String nama="=========Toko bejo=========";
 		System.out.println(nama);
 	}
 	public void meja(){
-		System.out.println("Saya adalah big meja");
+		System.out.println("big meja");
 	}
 }

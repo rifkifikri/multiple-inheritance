@@ -11,7 +11,7 @@ public class Main {
 			kerja.meja();
 			kerja.mejaKerja();
 		
-		Kantor kantor= new Kantor();// inherit anak dari meja kerja
+		Kantor kantor= new Kantor();
 			kantor.namaToko();
 			kantor.meja();
 			kantor.mejaKerja();
@@ -36,7 +36,7 @@ public class Main {
 			mejaHalaman.namaToko();
 			mejaHalaman.meja();
 			mejaHalaman.mejaSantai();
-		mejaHalaman.mejaHalaman();
+			mejaHalaman.mejaHalaman();
 		
 		
 	}
